@@ -156,7 +156,7 @@ export default function Card() {
         <p className="text-White text-3xl font-semibold  mt-2">Thank you</p>
         <p className="text-MediumGrey text-sm text-center font-semibold mt-2 ">
           We appreciate you taking the time to give a rating. If you ever need
-          more support, don't hesitate to get in touch.
+          more support, dont hesitate to get in touch.
         </p>
       </div>
     </ReactCardFlip>
